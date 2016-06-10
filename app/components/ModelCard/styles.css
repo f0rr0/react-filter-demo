@@ -1,0 +1,9 @@
+li > div {
+ height: 198px;
+ background-size: cover;
+}
+.info {
+ background-color: hsla(0, 100%, 0%, 0.75);
+ color: white;
+ font-family: 'Dosis';
+}

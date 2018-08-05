@@ -1,4 +1,7 @@
 ## React filtering demo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/f0rr0/react-filter-demo.svg)](https://greenkeeper.io/)
+
 Filtering JSON data using Ramda to maintain immutability and rendering with React.[Demo](https://meriad-demo.surge.sh)
 
 ### Example
